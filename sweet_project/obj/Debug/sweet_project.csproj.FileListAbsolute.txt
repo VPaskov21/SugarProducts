@@ -27,3 +27,31 @@ C:\Users\scroLLeR\documents\visual studio 2013\Projects\sweet_project\sweet_proj
 C:\Users\scroLLeR\documents\visual studio 2013\Projects\sweet_project\sweet_project\obj\Debug\sweet_project.MostSoldProducts.resources
 C:\Users\scroLLeR\documents\visual studio 2013\Projects\sweet_project\sweet_project\obj\Debug\sweet_project.SearchProduction.resources
 C:\Users\scroLLeR\documents\visual studio 2013\Projects\sweet_project\sweet_project\obj\Debug\sweet_project.SearchSale.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\bin\Debug\sweet_project.exe.config
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.exe
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.pdb
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\bin\Debug\sweet_project.exe
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\bin\Debug\sweet_project.pdb
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.csprojResolveAssemblyReference.cache
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.AddClient.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.AddData.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.AddProduct.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.AddProduction.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.AddSale.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.ClientWithMostSales.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.MainForm.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.MostSoldProducts.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.ProducedSoldAvailableProducts.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.ProductsByCategory.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.Properties.Resources.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.Queries.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.SalesBeforeDate.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.SalesByCategory.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.SearchClient.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.SearchProduct.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.SearchProduction.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.SearchSale.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.UpdateClient.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.UpdateData.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.UpdateProduct.resources
+D:\scroLLeR\TU\5kurs-master\UIS\sweet_project\sweet_project\obj\Debug\sweet_project.csproj.GenerateResource.Cache
